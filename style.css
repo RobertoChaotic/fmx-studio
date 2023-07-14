@@ -31,12 +31,13 @@ img {
 }
 
 main h1 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.7rem;
+  font-weight: bolder;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #f24405;
+  margin-top: 15px;
+  color: #000000;
   height: 50px;
 }
 
@@ -44,9 +45,15 @@ main h1 {
   padding: 30px;
 }
 
-p {
+h3 {
+  margin-top: 5px;
   text-align: center;
-  color: #ffff;
+  color: #f24405;
+}
+p {
+  margin-top: 5px;
+  text-align: center;
+  color: #000000;
 }
 
 .menu ul {
