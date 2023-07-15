@@ -56,9 +56,9 @@ a:hover {
 
 h1 {
   margin: auto;
-  padding: 3px;
+  padding: 15px;
   text-align: center;
-  font-size: 2.5rem;
+  font-size: 2.1rem;
   font-weight: bolder;
   align-items: center;
   justify-content: center;
@@ -67,15 +67,15 @@ h1 {
 }
 
 h3 {
-  background: #f244056e;
-  font-size: 1.1rem;
+  background: #f24405;
+  font-size: 1rem;
   font-weight: 400;
   text-align: justify;
   color: #ffff;
-  width: 400px;
-  height: 200px;
+  width: 380px;
+  height: 190px;
   margin: auto;
-  padding: 17px;
+  padding: 16px;
   border-radius: 0px 15px 0px 15px;
   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.685);
 }
@@ -84,7 +84,7 @@ p {
   width: 400px;
   margin: auto;
   margin-top: 7px;
-  padding: 7px;
+  padding: 15px;
   text-align: center;
   font-weight: bold;
 }
