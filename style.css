@@ -10,6 +10,7 @@ body,
 html {
   width: 100vw;
   height: 100vh;
+  margin: auto;
   font-family: "Roboto Slab", serif;
   background: #22babb;
   background: url(img/wallpaper-1300px.jpg) no-repeat center center;
@@ -17,7 +18,9 @@ html {
 }
 
 header {
-  height: 170px;
+  display: flex;
+  align-items: center;
+  height: 200px;
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.486);
   background: #f24405 url(img/fox.png) no-repeat center center;
   background-size: cover;
